@@ -1,5 +1,7 @@
 # Team Fortress 2 Metal Count
 
+Tested on Fedora 32 using NodeJS v13.11.0
+
 ## Usage
 Usage on Linux:
 `WEBAPI_KEY="<Web APIKey>" USER_STEAMID="<Your SteamID64>" node main.js`
